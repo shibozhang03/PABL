@@ -1,0 +1,27 @@
+NUMERIC_X = [
+    "age",
+    "admission_to_a_h",
+    "specimen_to_a_h",
+    "index_hour",
+    "index_weekday",
+    "lactate",
+    "albumin",
+    "bicarbonate",
+    "bilirubin",
+    "creatinine",
+    "glucose",
+    "potassium",
+    "sodium",
+    "bun",
+    "hemoglobin",
+    "inr",
+    "platelet",
+]
+CATEGORICAL_X = [
+    "gender",
+    "race",
+    "admission_type",
+    "admission_location",
+    "anchor_year_group",
+    "careunit_at_a",
+]
